@@ -1,3 +1,3 @@
 # Activity5
 
-Joriza Oliba BSIT-3B
+Joriza Oliva BSIT-3B
